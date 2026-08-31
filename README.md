@@ -17,6 +17,10 @@ A dark-themed, editorial-grade template built for a press wire service. Pure HTM
 | Services | `services.html` | Wire services, custom reporting, media consulting packages with pricing tiers |
 | Contact | `contact.html` | Contact form, bureau locations, press credentials information |
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Design System
 
 ### Colors
